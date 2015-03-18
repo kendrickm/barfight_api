@@ -10,4 +10,4 @@ This is a Sinatra app that provides RESTful endpoints for the barfight applicati
 * `bundle install` from application directory to install rubygems
 
 ##Running
-ruby loc.rb will start the application and bind to localhost port 4567
+`ruby loc.rb` will start the application and bind to localhost port 4567

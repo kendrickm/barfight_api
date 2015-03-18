@@ -11,3 +11,6 @@ This is a Sinatra app that provides RESTful endpoints for the barfight applicati
 
 ##Running
 `ruby loc.rb` will start the application and bind to localhost port 4567
+
+##Use
+`curl localhost:4567/location/483691cff964a520ec4f1fe3` will generate a database entry for Baileys Taproom. Replace the id at the end with alternative foursquare location ids to create new database entries
